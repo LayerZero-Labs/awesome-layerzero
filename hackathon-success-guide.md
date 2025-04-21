@@ -97,17 +97,31 @@ This track rewards creative and well-executed projects that demonstrate the powe
 
 Examples of past hackathon projects built with LayerZero:
 
+ETHGlobal Bangkok 2024 - Best Omnichain Solutions
+- [ERC20 Unchained](https://ethglobal.com/showcase/erc20-unchained-ziaz1)
+- [FlashFi](https://ethglobal.com/showcase/flashfi-g27p4)
+- [BOO Market](https://ethglobal.com/showcase/boo-market-oekxo)
+
+ETHGloabal Bangkok 2024 - Best LayerZero Read
+- [METAINTENTS](https://ethglobal.com/showcase/metaintents-8kjr4)
+- [Solvnet](https://ethglobal.com/showcase/solvnet-rr87n)
+
+ETHGlobal San Francisco 2024 - Most Innovative Omnichain Solution
+- [Quark](https://ethglobal.com/showcase/quark-py5p4)
+- [LayerKit](https://ethglobal.com/showcase/layerkit-ksqw0)
+- [PowerAgents](https://ethglobal.com/showcase/power-agents-djqmb)
+
+ETHGlobal Singapore 2024 - Most Innovative Omnichain Solution
 - [JITLiq Network](https://ethglobal.com/showcase/jitliq-network-m2cw1)
 - [PageETH](https://ethglobal.com/showcase/pageeth-rcjiz)
+
+ETHOnline 2024 - Most Innovative Omnichain Solution
 - [OmniGas](https://ethglobal.com/showcase/omnigas-cqg1m)
 - [Membrane Finance](https://ethglobal.com/showcase/membrane-finance-qvq7k)
+
+ETHGlobal Brussels 2024 - Best Omnichain Implementation
 - [SyncSafe](https://ethglobal.com/showcase/syncsafe-dcrfk)
 - [liqu1tent](https://ethglobal.com/showcase/liqu1tent-5mctm)
-- [Omnichain zkERC20](https://ethglobal.com/showcase/omnichain-zkerc20-i6koo)
-- [Fill Me Up](https://ethglobal.com/showcase/fill-me-up-9u13c)
-- [NounsPilot](https://ethglobal.com/showcase/nounspilot-vyw3q)
-- [MultiVault](https://ethglobal.com/showcase/multivault-o583a)
-- [Connector](https://ethglobal.com/showcase/connector-70emz)
 
 ## 🧑‍💻 Technical Support & Community
 
