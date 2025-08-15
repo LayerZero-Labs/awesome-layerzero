@@ -26,6 +26,7 @@ Everything you need to know about LayerZero in one complete resource.
 *Learn how to build with LayerZero.*
 
 ### Workshops & Tutorials
+- [ETHGlobal Cannes 2025: Buid Omnichain tokens (and more) in <5 mins with LayerZero](https://www.youtube.com/watch?v=ktexzbIm9xM)
 - [ETHOnline2024: Deploying Omnichain Fungible Tokens](https://www.youtube.com/live/C-NCxfhEjqY)
 - [Solana Breakpoint 2024: Build Omnichain Programs](https://www.youtube.com/watch?v=dovDQIuhqbc)   
 
@@ -56,7 +57,9 @@ Everything you need to know about LayerZero in one complete resource.
 - [Stargate](https://stargate.finance/): Fully composable bridge, OFT Bridge
 
 ### Ecosystem Data
-- [electric-capital's crypto ecosystem data](https://github.com/electric-capital/crypto-ecosystems/blob/master/data/ecosystems/l/layerzero.toml)
+- [electric-capital's crypto ecosystem data](https://github.com/electric-capital/crypto-ecosystems)
+- [Applications on LayerZero Scan](https://layerzeroscan.com/application)
+- [OFTs on LayerZero Scan](https://layerzeroscan.com/oft)
 
 ## Media Hub
 *Stay updated with latest news, recordings, interviews, and educational content.*
