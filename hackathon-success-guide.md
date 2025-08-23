@@ -2,9 +2,6 @@
 
 ## 📅 Upcoming Hackathons
 
-- [ETHGlobal Prague](https://ethglobal.com/events/prague) - May 30 - June 1, 2025
-- [ETHGlobal Cannes](https://ethglobal.com/events/cannes) - July 4 - 6, 2025
-- [ETHGlobal New York 2025](https://ethglobal.com/events/newyork2025) - August 15 - 17, 2025
 - [ETHGlobal Buenos Aires](https://ethglobal.com/events/buenosaires) - November 21 - 23, 2025
 
 ## 🟢 Introduction
@@ -36,54 +33,6 @@
   - [Intro to LayerZero V2 & Omnichain Apps for Beginners](https://www.youtube.com/watch?v=W0J_Jz76apE)
   - [Mastering Cross Chain State Retrieval](https://www.youtube.com/watch?v=DEvfd44q5ys)
 
-## 🎯 Hackathon Project Ideas
-
-A few project idea starters, to give you some inspiration.
-
-- **Omnichain Yield Aggregator:** Create a dApp that automatically finds the best yield opportunities for a specific asset (e.g., USDC) across multiple supported chains and allows users to deposit/withdraw from a single interface, using `lzRead` for cross-chain state checks.
-- **Cross-Chain NFT Utility Unlocker:** Build an ONFT project where owning the NFT on _any_ supported chain grants access to specific features or content within a dApp deployed on a different chain.
-- **Composable DeFi Strategy Builder:** Leverage LayerZero Composability to create a dApp where users can chain together actions across different protocols on multiple chains in a sequence managed by LayerZero messages. For example:
-  - Swap on Uniswap (ETH) →
-  - Bridge Asset via OFT →
-  - Deposit into Aave (Polygon)
-- **Decentralized Cross-Chain Oracle:** Use `lzRead` and potentially `lzMap`/`lzReduce` to build a system where contracts can request aggregated data (e.g., median token price) from multiple chains, providing a more resilient oracle feed.
-- **Omnichain Governance Portal:** Design a system where a DAO's governance token (OFT) holders can vote on proposals from any chain where the token exists, with votes securely tallied on a designated home chain via LayerZero messaging.
-
-## 💰 Prizes & Bounties
-
-[Bounties for ETHGlobal Prague](https://ethglobal.com/events/prague/prizes#layerzero) (the nearest hackathon) are listed below.
-
-#### **lzRead Track - $4000**
-
-- 1st place - $2,500
-- 2nd place - $1,500
-
-Develop a comprehensive solution using [LayerZero Read](https://docs.layerzero.network/v2/developers/evm/lzread/overview) (`lzRead`) to request, retrieve, and process external on-chain state from destination blockchains.
-
-Your solution should use `lzRead` to perform cross-chain data queries and update state on the source or another destination chain based on the retrieved data.
-
-Projects should focus on secure and efficient cross-chain data queries, using features like `lzMap()` and `lzReduce()` for off-chain computation.
-
-#### Composability Track - $4000
-
-- 1st place - $2,500
-- 2nd place - $1,500
-
-Build an innovative application that showcases [LayerZero's horizontal composability](https://docs.layerzero.network/v2/developers/evm/composer/overview) features. Your project should break down a complex cross-chain workflow into discrete, sequential steps managed through LayerZero messages.
-
-Demonstrate how you can trigger follow-up actions (composed messages) on a destination chain after an initial LayerZero message is delivered, potentially involving interactions with multiple contracts or protocols across different chains.
-
-Focus on creating advanced, multi-step workflows that wouldn't be easily possible with traditional bridging or single atomic cross-chain transactions. Show how this approach improves user experience, reliability, or enables new use cases by decoupling operations and leveraging LayerZero's message-passing framework.
-
-#### General Prize Track - $2000
-
-- 1st place - $1,000
-- 2nd place - $1,000
-
-For outstanding projects utilizing any LayerZero feature (OApp, OFT, ONFT, lzRead, Composability) to build a compelling omnichain application.
-
-This track rewards creative and well-executed projects that demonstrate the power and potential of LayerZero, even if they don't fit perfectly into the specific `lzRead` or Composability tracks. Show us your best omnichain ideas!
-
 ## 📋 Judging Criteria
 
 - **Innovation & Creativity:** How novel is the idea? Does it leverage LayerZero's unique capabilities in interesting ways?
@@ -96,6 +45,15 @@ This track rewards creative and well-executed projects that demonstrate the powe
 ## 🔥 Inspiration & Past Winners
 
 Examples of past hackathon projects built with LayerZero:
+
+ETHGlobal New York 2025 Best Omnichain DeFi Primitive
+- [Pika Vault](https://ethglobal.com/showcase/pika-vault-j3g2i)
+- [Volatility Hook](https://ethglobal.com/showcase/volatility-hook-3xkyp)
+
+ETHGlobal New York 2025 Best Omnichain Interaction
+- [OmniPlanet](https://ethglobal.com/showcase/omniplanet-17z6b)
+- [Pika Vault](https://ethglobal.com/showcase/pika-vault-j3g2i)
+- [Whispen](https://ethglobal.com/showcase/whisper-j8j2w)
 
 ETHGlobal Cannes 2025 Best Omnichain Interaction
 - [XPayr](https://ethglobal.com/showcase/xpayr-b5vwy)

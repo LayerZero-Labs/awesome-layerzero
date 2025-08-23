@@ -47,7 +47,7 @@ Everything you need to know about LayerZero in one complete resource.
 - [Supported Chains](https://docs.layerzero.network/v2/deployments/deployed-contracts)
 - [Supported Read Channels](https://docs.layerzero.network/v2/deployments/read-contracts)
 - [Supported DVNs](https://docs.layerzero.network/v2/deployments/dvn-addresses)
-- [LayerZero V2 WhitePaper](https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf)
+- [LayerZero V2 WhitePaper](https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.1.pdf)
 - [QMDB (Quick Merkle Database) WhitePaper](https://arxiv.org/pdf/2501.05262)
 - [Fast Ahead-of-Formation Optimization (FAFO) WhitePaper](https://layerzero.network/publications/FAFO_Whitepaper.pdf)
 
@@ -65,6 +65,7 @@ Everything you need to know about LayerZero in one complete resource.
 *Stay updated with latest news, recordings, interviews, and educational content.*
 
 ### BlogPosts
+- [Powered by LayerZero: How Pendle Built a $7B Protocol Everywhere](https://layerzero.network/blog/how-pendle-built-a-7b-protocol-everywhere)
 - [Deutsche Telekom MMS Joins LayerZero as DVN to Secure Cross-chain Transactions](https://layerzero.network/blog/deutsche-telekom-mms-joins-layerzero-as-dvn)
 - [LayerZero Integrated by Fireblocks for Tokenization Engine](https://layerzero.network/blog/layerzero-fireblocks-tokenization)  
 - [Introducing The Hyperliquid Bridge](https://layerzero.network/blog/introducing-the-hyperliquid-bridge)
@@ -132,6 +133,7 @@ Built on Endpoint V2:
 - [KelpDAO](https://github.com/Kelp-DAO/kelp-dao-lz)
 - [OORT](https://github.com/oort-tech/oort-layerzero-oft)
 - [Paladin](https://github.com/0xpaladinsecurity/zexecutor)
+- [Paxos](https://github.com/paxosglobal/cross-chain-contracts)
 - [StakeStone](https://github.com/stakestone/LayerZeroAdapter)
 - [Stargate](https://github.com/stargate-protocol/stargate-v2)
 
@@ -150,6 +152,15 @@ Built on Endpoint V1:
 *Discover the creativity of community-driven initiatives.*
 
 ### Hackathon Showcases
+
+ETHGlobal New York 2025 Best Omnichain DeFi Primitive
+- [Pika Vault](https://ethglobal.com/showcase/pika-vault-j3g2i)
+- [Volatility Hook](https://ethglobal.com/showcase/volatility-hook-3xkyp)
+
+ETHGlobal New York 2025 Best Omnichain Interaction
+- [OmniPlanet](https://ethglobal.com/showcase/omniplanet-17z6b)
+- [Pika Vault](https://ethglobal.com/showcase/pika-vault-j3g2i)
+- [Whispen](https://ethglobal.com/showcase/whisper-j8j2w)
 
 ETHGlobal Cannes 2025 Best Omnichain Interaction
 - [XPayr](https://ethglobal.com/showcase/xpayr-b5vwy)
