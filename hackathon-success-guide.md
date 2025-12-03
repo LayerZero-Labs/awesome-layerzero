@@ -46,6 +46,12 @@
 
 Examples of past hackathon projects built with LayerZero:
 
+ETHGlobal Buenos Aires 2025
+- [Omni402](https://ethglobal.com/showcase/omni402-dvpjd)
+- [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx)
+- [SOS NOT SUS](https://ethglobal.com/showcase/sos-not-sus-3b5on)
+- [StableFlow](https://ethglobal.com/showcase/stableflow-no9is)
+
 ETHGlobal New York 2025 Best Omnichain DeFi Primitive
 - [Pika Vault](https://ethglobal.com/showcase/pika-vault-j3g2i)
 - [Volatility Hook](https://ethglobal.com/showcase/volatility-hook-3xkyp)
