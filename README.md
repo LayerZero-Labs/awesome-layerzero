@@ -26,6 +26,9 @@ Everything you need to know about LayerZero in one complete resource.
 *Learn how to build with LayerZero.*
 
 ### Workshops & Tutorials
+- [ETHGlobal Buenos Aires 2025: Send Tokens and Call Anything Cross Chain](https://www.youtube.com/watch?v=R5IcXccOh5M)
+- [Interoperability and confidentiality with Layer Zero @ the Zama CoFHE Shop](https://www.youtube.com/watch?v=-2pXw0fjSU4)
+- [ETHGlobal New York 2025: Omnichain Vaults Inside LayerZero's ERC4626 OVault Standard](https://www.youtube.com/watch?v=Vv9dFOuKriQ)
 - [ETHGlobal Cannes 2025: Buid Omnichain tokens (and more) in <5 mins with LayerZero](https://www.youtube.com/watch?v=ktexzbIm9xM)
 - [ETHOnline2024: Deploying Omnichain Fungible Tokens](https://www.youtube.com/live/C-NCxfhEjqY)
 - [Solana Breakpoint 2024: Build Omnichain Programs](https://www.youtube.com/watch?v=dovDQIuhqbc)   
@@ -65,6 +68,8 @@ Everything you need to know about LayerZero in one complete resource.
 *Stay updated with latest news, recordings, interviews, and educational content.*
 
 ### BlogPosts
+- [Better Money Technology for Institutions](https://layerzero.network/blog/better-money-technology-for-institutions)
+- [The Plasma Case Study: Launch Liquid](https://layerzero.network/blog/the-plasma-case-study-launch-liquid)
 - [Powered by LayerZero: How Pendle Built a $7B Protocol Everywhere](https://layerzero.network/blog/how-pendle-built-a-7b-protocol-everywhere)
 - [Deutsche Telekom MMS Joins LayerZero as DVN to Secure Cross-chain Transactions](https://layerzero.network/blog/deutsche-telekom-mms-joins-layerzero-as-dvn)
 - [LayerZero Integrated by Fireblocks for Tokenization Engine](https://layerzero.network/blog/layerzero-fireblocks-tokenization)  
@@ -152,6 +157,12 @@ Built on Endpoint V1:
 *Discover the creativity of community-driven initiatives.*
 
 ### Hackathon Showcases
+
+ETHGlobal Buenos Aires 2025
+- [Omni402](https://ethglobal.com/showcase/omni402-dvpjd)
+- [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx)
+- [SOS NOT SUS](https://ethglobal.com/showcase/sos-not-sus-3b5on)
+- [StableFlow](https://ethglobal.com/showcase/stableflow-no9is)
 
 ETHGlobal New York 2025 Best Omnichain DeFi Primitive
 - [Pika Vault](https://ethglobal.com/showcase/pika-vault-j3g2i)
