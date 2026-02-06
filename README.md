@@ -35,6 +35,7 @@ Everything you need to know about LayerZero in one complete resource.
 
 ### Tools
 - [DevTools Repo](https://github.com/LayerZero-Labs/devtools/tree/main)
+- [LayerZero Address Book](https://github.com/LayerZero-Labs/lz-address-book)
 - [LayerZero Scan](https://layerzeroscan.com)
 - [Mainnet Scan API](https://scan.layerzero-api.com/v1/swagger)
 - [Testnet Scan API](https://scan-testnet.layerzero-api.com/v1/swagger)
@@ -53,6 +54,7 @@ Everything you need to know about LayerZero in one complete resource.
 - [LayerZero V2 WhitePaper](https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.1.pdf)
 - [QMDB (Quick Merkle Database) WhitePaper](https://arxiv.org/pdf/2501.05262)
 - [Fast Ahead-of-Formation Optimization (FAFO) WhitePaper](https://layerzero.network/publications/FAFO_Whitepaper.pdf)
+- [ZeroOS: A Universal Modular Library OS for zkVMs](https://arxiv.org/abs/2512.09300)
 
 ### Protocols that Developers can utilize
 - [Testnet Bridge](https://testnetbridge.com/): Make Sepolia ETH more accessible for developers
@@ -69,6 +71,10 @@ Everything you need to know about LayerZero in one complete resource.
 
 ### BlogPosts
 - [Better Money Technology for Institutions](https://layerzero.network/blog/better-money-technology-for-institutions)
+- [Can Simplex Keep A Secret?](https://layerzero.network/blog/can-simplex-keep-a-secret)
+- [The Wyoming Case Study: A Stable Token With Statehood](https://layerzero.network/blog/wyoming-case-study-a-stable-token-with-statehood)
+- [25 Stats Explaining How LayerZero Accelerated Crypto in 2025](https://layerzero.network/blog/25-stats-explaining-how-crypto-accelerated-in-2025)
+- [The Default Is Many Chains](https://layerzero.network/blog/the-default-is-many-chains)
 - [The Plasma Case Study: Launch Liquid](https://layerzero.network/blog/the-plasma-case-study-launch-liquid)
 - [Powered by LayerZero: How Pendle Built a $7B Protocol Everywhere](https://layerzero.network/blog/how-pendle-built-a-7b-protocol-everywhere)
 - [Deutsche Telekom MMS Joins LayerZero as DVN to Secure Cross-chain Transactions](https://layerzero.network/blog/deutsche-telekom-mms-joins-layerzero-as-dvn)
