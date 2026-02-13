@@ -94,6 +94,7 @@ Everything you need to know about LayerZero in one complete resource.
 - [NFTs Go Omnichain With Tokenbound and LayerZero](https://layerzero.network/blog/nfts-go-omnichain-with-tokenbound-and-layerzero)
 - [LayerZero x EigenLayer: The CryptoEconomic DVN Framework](https://medium.com/layerzero-official/layerzero-x-eigenlayer-the-cryptoeconomic-dvn-framework-68af27ca2040)  
 - [LayerZero Labs x Initia Labs](https://medium.com/layerzero-official/layerzero-labs-x-initia-labs-6f9eca12659c)
+- [LayerZero Integrations Security Review - Updated 2025](https://defensahacker.com/layerzero-integrations-security-review/)
 
 ### Videos & Podcasts
 
